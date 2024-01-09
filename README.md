@@ -2,7 +2,7 @@
 
 We are actively looking for software engineers based in Munich or remote/hybrid to join our team!
 
-Thank you for your interest! You already should know about us, at [DQC.ai](https://dqc.ai), and hopefully, you are as interested in changing the future of data (quality) as we are! 😉
+Thank you for your interest! You already should know about us, [DQC.ai](https://dqc.ai), and hopefully, you are as interested in changing the future of data (quality) as we are! 😉
 
 **Tech stack**: 
 - BackEnd
