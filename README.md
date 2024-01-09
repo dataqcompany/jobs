@@ -79,5 +79,6 @@ All of these questions are important, but the final question is probably the mos
 
 **Why do you want to work for DQC.ai?**
 
+---
 
 (Credits to [Oxide](https://oxide.computer/) for opening their hiring materials and process!)
