@@ -9,7 +9,7 @@ Thank you for your interest! You already should know about us, [DQC.ai](https://
   - Python (Polars, SQLAlchemy, DuckDB, ...)
   - CatBoost
   - Mixtral/DolphinMixtral
-  - GPT3.5/4 (fine tuned9)
+  - GPT3.5/4 (fine tuned)
   - k8s
 - FrontEnd
   - React
