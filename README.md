@@ -6,11 +6,11 @@ Thank you for your interest! You already should know about us, [DQC.ai](https://
 
 **Tech stack**: 
 - BackEnd
-  - Python (Polars, SQLAlchemy, DuckDB, ...)
-  - CatBoost
-  - Mixtral/DolphinMixtral
-  - GPT3.5/4 (fine tuned)
-  - k8s
+  - Python ([Polars](https://pola.rs/), [SQLAlchemy](https://www.sqlalchemy.org/), [DuckDB](https://duckdb.org/), ...)
+  - [CatBoost](https://catboost.ai/)
+  - [Mixtral/DolphinMixtral](https://mistral.ai/)
+  - [GPT3.5/4 (fine tuned)](https://platform.openai.com/docs/guides/fine-tuning)
+  - [k8s](https://kubernetes.io/)
 - FrontEnd
   - React
   - TypeScript
